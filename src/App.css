@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.mainForm {
+  margin-top: 3%;
+}
+.Emphasized {
+  width: 100%;
+  align-items: center;
+  text-align: center;
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: rgb(138, 138, 138);
+  color: #fff;
+}
+p {
+  font-size: 150%  ;
+  font-weight: 2em;
+}
